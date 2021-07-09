@@ -2244,10 +2244,10 @@
   resolved "https://registry.yarnpkg.com/@josephg/resolvable/-/resolvable-1.0.0.tgz#cd75b09cfad18cd945de9221d403203aa07e3d0a"
   integrity sha512-OfTtjoqB2doov5aTJxkyAMK8dXoo7CjCUQSYUEtiY34jbWduOGV7+168tmCT8COMsUEd5DMSFg/0iAOPCBTNAQ==
 
-"@kreamswap-libs/kream-swap-core@^0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@kreamswap-libs/kream-swap-core/-/kream-swap-core-0.1.2.tgz#fabb00090aa4353390b0f4ca6a848595e9277543"
-  integrity sha512-Fne5a2ov9RnwJQAoxlvpsiCHACH+vzXmbndwB7/YsERhWWA5bRcxTnF8AdFu3XUrwd5x3GDV5qYFZj/S5M9c/Q==
+"@kreamswap-libs/kream-swap-core@^0.1.3":
+  version "0.1.3"
+  resolved "https://registry.yarnpkg.com/@kreamswap-libs/kream-swap-core/-/kream-swap-core-0.1.3.tgz#13c3f3496849fa0eb2ec77c753dae9b130477832"
+  integrity sha512-dDoiXnuk5mBm2IumbE/sshsFMVOEgNDYx8j6IJ/HGqJN46zvSDDTA8U5nIhDz9ckzB7LeHf1lfC7mZQDobivng==
   dependencies:
     truffle "^5.1.41"
     truffle-flattener "^1.4.4"
